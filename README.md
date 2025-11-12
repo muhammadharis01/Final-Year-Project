@@ -1,7 +1,7 @@
 # Final-Year-Project
 ## Mujawwad 
 
-Mujawwad is a mobile and web application that analyzes Quranic recitation at the phoneme level and provides automated feedback on core Tajweed rules to support accurate, independent practice for learners without continuous instructor supervision. The project focuses on the Hafs recitation style with Naskh script, highlighting errors directly on verses and explaining mistakes related to Madd, Ghunnah, Qalqalah, and Noon/Meem.
+Mujawwad is a mobile application that analyzes Quranic recitation at the phoneme level and provides automated feedback on core Tajweed rules to support accurate, independent practice for learners without continuous instructor supervision. The project focuses on the Hafs recitation style with Naskh script, highlighting errors directly on verses and explaining mistakes related to Madd, Ghunnah, Qalqalah, and Noon/Meem.
 
 ### What’s inside
 - docs: Authoritative documents, including the Final Proposal and Software Requirements Specification, covering background, scope, constraints, and references that define the system’s goals.
