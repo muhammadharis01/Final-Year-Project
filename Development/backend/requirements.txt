@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+soundfile
+librosa
+transformers
+torch
+torchaudio
+pydantic
+pydantic-settings
+supabase

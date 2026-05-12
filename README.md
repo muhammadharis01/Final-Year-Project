@@ -6,6 +6,7 @@ Mujawwad is a mobile application that analyzes Quranic recitation at the phoneme
 - Docs: Authoritative documents, including the Final Proposal and Software Requirements Specification, covering background, scope, constraints, and references that define the system’s goals.
 - Weekly-reports: Iterative progress logs mapped to milestones.
 - Research-papers: Literature related to grounding forced alignment, ASR, and Tajweed rule-checking approaches referenced in project documents.
+- Development: Contains the development files and code for the backend and mobile app.
 
 ### Team:
 1. Muhammad Haris (Lead, BSCS51F22S065)

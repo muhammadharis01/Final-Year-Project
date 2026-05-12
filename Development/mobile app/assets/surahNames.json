@@ -1,0 +1,128 @@
+[
+    {
+        "number": 1,
+        "name": "Al-Fatiha",
+        "arabicName": "الفاتحة",
+        "verses": 7
+    },
+    {
+        "number": 95,
+        "name": "At-Tin",
+        "arabicName": "التين",
+        "verses": 8
+    },
+    {
+        "number": 96,
+        "name": "Al-Alaq",
+        "arabicName": "العلق",
+        "verses": 19
+    },
+    {
+        "number": 97,
+        "name": "Al-Qadr",
+        "arabicName": "القدر",
+        "verses": 5
+    },
+    {
+        "number": 98,
+        "name": "Al-Bayyina",
+        "arabicName": "البينة",
+        "verses": 8
+    },
+    {
+        "number": 99,
+        "name": "Az-Zalzala",
+        "arabicName": "الزلزلة",
+        "verses": 8
+    },
+    {
+        "number": 100,
+        "name": "Al-Adiyat",
+        "arabicName": "العاديات",
+        "verses": 11
+    },
+    {
+        "number": 101,
+        "name": "Al-Qaria",
+        "arabicName": "القارعة",
+        "verses": 11
+    },
+    {
+        "number": 102,
+        "name": "At-Takathur",
+        "arabicName": "التكاثر",
+        "verses": 8
+    },
+    {
+        "number": 103,
+        "name": "Al-Asr",
+        "arabicName": "العصر",
+        "verses": 3
+    },
+    {
+        "number": 104,
+        "name": "Al-Humaza",
+        "arabicName": "الهمزة",
+        "verses": 9
+    },
+    {
+        "number": 105,
+        "name": "Al-Fil",
+        "arabicName": "الفيل",
+        "verses": 5
+    },
+    {
+        "number": 106,
+        "name": "Quraish",
+        "arabicName": "قريش",
+        "verses": 4
+    },
+    {
+        "number": 107,
+        "name": "Al-Ma'un",
+        "arabicName": "الماعون",
+        "verses": 7
+    },
+    {
+        "number": 108,
+        "name": "Al-Kawthar",
+        "arabicName": "الكوثر",
+        "verses": 3
+    },
+    {
+        "number": 109,
+        "name": "Al-Kafirun",
+        "arabicName": "الكافرون",
+        "verses": 6
+    },
+    {
+        "number": 110,
+        "name": "An-Nasr",
+        "arabicName": "النصر",
+        "verses": 3
+    },
+    {
+        "number": 111,
+        "name": "Al-Masad",
+        "arabicName": "المسد",
+        "verses": 5
+    },
+    {
+        "number": 112,
+        "name": "Al-Ikhlas",
+        "arabicName": "الإخلاص",
+        "verses": 4
+    },
+    {
+        "number": 113,
+        "name": "Al-Falaq",
+        "arabicName": "الفلق",
+        "verses": 5
+    },
+    {
+        "number": 114,
+        "name": "An-Nas",
+        "arabicName": "الناس",
+        "verses": 6
+    }
+]
